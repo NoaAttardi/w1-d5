@@ -1,1 +1,10 @@
-body { }
+  body {text-align:center;}
+  header { background-color: black;}
+  .banner { max-width: ; px; height: 500px;
+}
+h1 { color: rgb(0, 195, 248);}
+h2{ color: rgb(0, 195, 248) ;}
+h3{ color: rgb(0, 195, 248);}
+h4 { color: rgb(0, 195, 248) ;}
+h5{color: rgb(0, 195, 248)}
+.redcontent { background-color: red;}
